@@ -19,4 +19,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=tokyonight&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=rizamai28&theme=tokyonight)

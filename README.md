@@ -1,13 +1,14 @@
-<p align="left">
-  <a href="https://github.com/rizamai28">
-    <img height="20" src="https://komarev.com/ghpvc/?username=rizamai28" />
-  </a>
-  <a href="https://github.com/rizamai28">
-    <img height="20" src="https://img.shields.io/github/followers/rizamai28?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=fcfcfc&logo=nextdotjs)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=68A063&logo=node.js)
+![](https://img.shields.io/badge/Code-Bun-informational?style=flat&color=FF8DA1&logo=bun)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=FFEA99&logo=javascript)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&color=0BF&logo=TailwindCSS)
+![](https://img.shields.io/badge/UI-ShadcnUI-informational?style=flat&color=777777&logo=shadcnui)
 
-## ⭐Stats
+## 📊Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizamai28&theme=tokyonight)

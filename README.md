@@ -18,9 +18,9 @@
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=68A063&logo=node.js)](https://nodejs.org/ja)
 [![](https://img.shields.io/badge/Code-Bun-informational?style=flat&color=FF8DA1&logo=bun)](https://bun.com/)
 [![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&color=0BF&logo=TailwindCSS)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/UI-ShadcnUI-informational?style=flat&color=777777&logo=shadcnui)](https://ui.shadcn.com/)
+[![](https://img.shields.io/badge/UI-shadcn/ui-informational?style=flat&color=777777&logo=shadcnui)](https://ui.shadcn.com/)
 
-[![](https://img.shields.io/badge/Hobby-PlayStation-informational?style=flat&color=003791&logo=playstation5)](https://www.playstation.com/ja-jp/)
+[![](https://img.shields.io/badge/Hobby-PlayStation-informational?style=flat&color=003791&logo=playstation)](https://www.playstation.com/ja-jp/)
 [![](https://img.shields.io/badge/Hobby-AppleMusic-informational?style=flat&color=FA243C&logo=applemusic)](https://music.apple.com/jp/new)
 
 ## 🏆 Trophy

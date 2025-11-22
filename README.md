@@ -1,4 +1,4 @@
-## 📊Stats
+## 📊 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizamai28&theme=tokyonight)
@@ -15,5 +15,5 @@
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&color=0BF&logo=TailwindCSS)
 ![](https://img.shields.io/badge/UI-ShadcnUI-informational?style=flat&color=777777&logo=shadcnui)
 
-## 🏆Trophy
+## 🏆 Trophy
 [![trophy](https://stable-github-profile-trophy.vercel.app/?username=rizamai28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

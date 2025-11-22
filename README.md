@@ -15,5 +15,8 @@
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&color=0BF&logo=TailwindCSS)
 ![](https://img.shields.io/badge/UI-ShadcnUI-informational?style=flat&color=777777&logo=shadcnui)
 
+![](https://img.shields.io/badge/Hobby-PlayStation-informational?style=flat&color=003791&logo=playstation5)
+![](https://img.shields.io/badge/Hobby-AppleMusic-informational?style=flat&color=FA243C&logo=applemusic)
+
 ## 🏆 Trophy
 [![trophy](https://stable-github-profile-trophy.vercel.app/?username=rizamai28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

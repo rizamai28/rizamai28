@@ -1,3 +1,5 @@
+[![Header](https://github.com/rizamai28/rizamai28/blob/main/banner.png?raw=true "Header")](https://github.com/rizamai28)
+
 ## 📊 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=tokyonight)

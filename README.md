@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=FFEA99&logo=javascript)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)](https://ja.react.dev/)
-[![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=fcfcfc&logo=nextdotjs)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=fcfcfc&logo=nextdotjs)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=68A063&logo=node.js)](https://nodejs.org/ja)
 [![](https://img.shields.io/badge/Code-Bun-informational?style=flat&color=FF8DA1&logo=bun)](https://bun.com/)
 [![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&color=0BF&logo=TailwindCSS)](https://tailwindcss.com/)

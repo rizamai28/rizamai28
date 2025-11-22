@@ -10,7 +10,7 @@
 
 ![](https://raw.githubusercontent.com/rizamai28/rizamai28/output/github-contribution-grid-snake.svg)
 
-## 🛠️ Technologies & Tools
+## 🚀 Technologies & Tools
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=FFEA99&logo=javascript)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)](https://ja.react.dev/)

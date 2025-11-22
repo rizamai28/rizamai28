@@ -5,6 +5,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizamai28&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=tokyonight&utcOffset=9)
 
+![](https://raw.githubusercontent.com/rizamai28/rizamai28/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=FFEA99&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)

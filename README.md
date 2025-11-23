@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=tokyonight&utcOffset=9)
 <!-- ![rizamai28's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizamai28&show_icons=true&theme=tokyonight) -->
 
-![](https://raw.githubusercontent.com/rizamai28/rizamai28/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/rizamai28/rizamai28/output/github-contribution-grid-snake-dark.svg)
 
 ## 🚀 Technologies & Tools
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=FFEA99&logo=javascript)](https://developer.mozilla.org/ja/docs/Web/JavaScript)

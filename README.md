@@ -1,11 +1,22 @@
 [![Header](https://github.com/rizamai28/rizamai28/blob/main/banner.png?raw=true "Header")](https://github.com/rizamai28)
 
 ## 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizamai28&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizamai28&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=tokyonight&utcOffset=9)
+<!-- profile details -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=blueberry#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizamai28&theme=default#gh-light-mode-only)
+<!-- repos per language -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=blueberry#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizamai28&theme=default#gh-light-mode-only)
+<!-- most commit language -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizamai28&theme=blueberry#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizamai28&theme=default#gh-light-mode-only)
+<!-- stats -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizamai28&theme=blueberry#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizamai28&theme=default#gh-light-mode-only)
+<!-- productive time -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=blueberry&utcOffset=9#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizamai28&theme=default&utcOffset=9#gh-light-mode-only)
+
 <!-- ![rizamai28's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizamai28&show_icons=true&theme=tokyonight) -->
 
 <picture>
@@ -28,4 +39,5 @@
 [![](https://img.shields.io/badge/Hobby-AppleMusic-informational?style=flat&color=FA243C&logo=applemusic)](https://music.apple.com/jp/new)
 
 ## 🏆 Trophy
-[![trophy](https://stable-github-profile-trophy.vercel.app/?username=rizamai28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=rizamai28&theme=onedark#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=rizamai28&theme=default#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
